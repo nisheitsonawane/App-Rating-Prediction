@@ -1,6 +1,6 @@
 # App-Rating-Prediction
 
-*Note : This is a college project*
+<u>*Note : This is a college project*<u/>
 
 Objective: Make a model to predict the app rating, with other information about the app provided.
 
